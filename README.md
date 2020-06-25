@@ -1,19 +1,19 @@
-# Simple Project - Enter Name Here
+# Simple Project - pepe_calc
 
-Foobar is a Python library for dealing with word pluralization.
+pepe_calc is a Python library for dealing with word pluralization.
 
 ## Installation
 
-Use [pip](https://pip.pypa.io/en/stable/) to install -pepe_calc-.
+Use [pip](https://pip.pypa.io/en/stable/) to install pepe_calc.
 
 ```bash
-pip install -pepe_calc-
+pip install pepe_calc
 ```
 
 ## Usage
 
 ```python
-import - pepe_calc -
+import pepe_calc
 ```
 
 ## License
