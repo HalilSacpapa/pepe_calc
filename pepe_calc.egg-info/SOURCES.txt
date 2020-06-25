@@ -1,0 +1,8 @@
+README.md
+setup.py
+pepe_calc/__init__.py
+pepe_calc/pepe_calc.py
+pepe_calc.egg-info/PKG-INFO
+pepe_calc.egg-info/SOURCES.txt
+pepe_calc.egg-info/dependency_links.txt
+pepe_calc.egg-info/top_level.txt

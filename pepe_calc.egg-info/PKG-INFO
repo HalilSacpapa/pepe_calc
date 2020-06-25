@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: pepe-calc
+Version: 0.0.6
+Summary: This program is not a simple calculator, but a pepe calculator
+Home-page: https://github.com/your_github_page
+Author: Halil Bagdadi
+Author-email: halil.bagdadi@epitech.eu
+License: UNKNOWN
+Description: # Simple Project - Enter Name Here
+        
+        Foobar is a Python library for dealing with word pluralization.
+        
+        ## Installation
+        
+        Use [pip](https://pip.pypa.io/en/stable/) to install -pepe_calc-.
+        
+        ```bash
+        pip install -pepe_calc-
+        ```
+        
+        ## Usage
+        
+        ```python
+        import - pepe_calc -
+        ```
+        
+        ## License
+        [MIT](https://choosealicense.com/licenses/mit/)
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
